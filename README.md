@@ -1,4 +1,4 @@
-# CRM Analytics Project
+<h1 align="center">CRM Customer & Sales Insights Analysis</h1>
 
 ---
 
@@ -19,11 +19,10 @@ This project focuses on analyzing Customer Relationship Management (CRM) data to
 
 ## 🛠 Tools & Technologies
 
-* SQL
-* Python
-* Excel
-* Tableau
-* Power BI
+**Microsoft Excel** – Data analysis and dashboard creation  
+**SQL** – Querying and extracting business insights  
+**Power BI** – Interactive dashboards and KPI analysis  
+**Tableau** – Advanced data visualization and storytelling
 
 ---
 
